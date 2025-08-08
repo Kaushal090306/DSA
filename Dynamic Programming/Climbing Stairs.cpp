@@ -12,7 +12,6 @@ public:
             temp=curr;
             curr=curr+prev;
             prev=temp;
-
         }
         return sum;
     }
